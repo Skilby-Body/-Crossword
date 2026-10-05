@@ -17,11 +17,11 @@ This project is a C++ console application designed to solve word search puzzles 
 
 If `input.txt` contains a valid grid, the generated `answer.txt` will look like this:
 ```text
-S  *   *   *  C
- *  O  *  *  A
- *  *   N   *  T
- *   *   *   *   *
- D  O  G  *  *
+S  *  *  *  C
+*  O  *  *  A
+*  *  N  *  T
+*  *  *  *  *
+D  O  G  *  *
 
 Total words found: 3
 ```
